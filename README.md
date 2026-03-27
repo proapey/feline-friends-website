@@ -16,7 +16,7 @@ This project was created as a final project submission for [Sisters of Code](htt
 
 | Page | File | Description |
 |------|------|-------------|
-| Home | `home.html` | Hero section, adoption process steps, and success stories |
+| Home | `index.html` | Hero section, adoption process steps, and success stories |
 | Adopt | `adopt.html` | Browse all cats available for adoption |
 | About | `about.html` | About the shelter and its mission |
 | Contact | `contact.html` | Contact form and important information |
@@ -34,7 +34,7 @@ This project was created as a final project submission for [Sisters of Code](htt
 
 ```
 feline-friends/
-├── home.html
+├── index.html
 ├── adopt.html
 ├── about.html
 ├── contact.html
